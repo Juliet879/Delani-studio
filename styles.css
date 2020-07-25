@@ -1,21 +1,14 @@
-/* Landing section */
+
+html{
+    scroll-behavior: smooth;
+}
 .landing{
-     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
-     color: white;
-     height: 90vh;
-     width: 70vw;
-     margin-left: 15%;
- }
- #landing{
-    margin-left: 30%;
-    padding-top: 300px;
+    background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 80vh;
 }
-#welcome{
-    padding-left: 50px;
-}
-#logo{
-    padding-left: 70px;
-}
+
 
 /* About section */
 .about h1{
@@ -85,29 +78,11 @@
     width: 40%;
     padding-left: 120%;
 }
-#img2{
-    width: 40%;
-    padding-left: 60%;
+
+.portfolio h1{
+    font-size: 120%;
+    margin-left: 45%;
 }
-#img3{
-    width: 40%;
-}
-#img4{
-    width: 40%;
-    padding-right: 100%;
-}
-#img5{
-    width: 40%;
-    padding-left: 120%;
-}
-#img6{
-    width: 40%;
-    padding-left: 60%;
-}
-#img7{
-    width: 40%;
-}
-#img8{
-    width: 40%;
-    padding-right: 100%;
-}
+/* *{
+    box-sizing: border-box;
+} */
