@@ -1,6 +1,81 @@
- .landing{
-     background-image: url();
+Landing section
+.landing{
+     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
      color: white;
-     height: 100vh;
+     height: 90vh;
      width: 70vw;
+     margin-left: 15%;
  }
+ #landing{
+    margin-left: 30%;
+    padding-top: 300px;
+}
+#welcome{
+    padding-left: 50px;
+}
+#logo{
+    padding-left: 70px;
+}
+
+/* About section */
+.about h1{
+    padding-left: 45%;
+    font-size: 23px;
+}
+.about p{
+    padding-left: 20%;
+}
+#one{
+    padding-left:35% ;
+}
+#two{
+    padding-left: 28%;
+}
+#three{
+    padding-left: 42%;
+}
+
+/* services section */
+.services{
+    background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg);
+    height: 40vh;
+    width: 70vw;
+    margin-left: 15%;
+    color: white;
+}
+#services{
+    padding-top: 8%;
+}
+#services h1{
+    font-size: 120%;
+    margin-left: 40%;
+}
+#p1{
+    margin-left: 13%;
+}
+#p2{
+    margin-left: 25%;
+}
+#p3{
+    margin-left: 22%;
+}
+
+/* what we do section */
+.row{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.doing h1{
+    font-size: 120%;
+    margin-left: 45%;
+} 
+#design{
+    display: none;
+
+}#development{
+    display: none;
+}
+#product{
+    display: none;
+}
