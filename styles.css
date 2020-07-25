@@ -74,9 +74,8 @@ html{
 }
 
 /* portfolio section */
-#img1{
-    width: 40%;
-    padding-left: 120%;
+#img1:hover{
+    opacity: 0.5;
 }
 
 .portfolio h1{
