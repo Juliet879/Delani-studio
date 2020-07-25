@@ -81,6 +81,33 @@
 }
 
 /* portfolio section */
-#row1{
-    width: 20px;
+#img1{
+    width: 40%;
+    padding-left: 120%;
+}
+#img2{
+    width: 40%;
+    padding-left: 60%;
+}
+#img3{
+    width: 40%;
+}
+#img4{
+    width: 40%;
+    padding-right: 100%;
+}
+#img5{
+    width: 40%;
+    padding-left: 120%;
+}
+#img6{
+    width: 40%;
+    padding-left: 60%;
+}
+#img7{
+    width: 40%;
+}
+#img8{
+    width: 40%;
+    padding-right: 100%;
 }
