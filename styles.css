@@ -77,13 +77,7 @@ html{
     font-size: 170%;
     margin-left: 45%;
 } 
-#design{
-    display: none;
-
-}#development{
-    display: none;
-}
-#product{
+.hide{
     display: none;
 }
 
@@ -98,6 +92,45 @@ html{
 }
 *{
     box-sizing: border-box;
+}
+#img1{
+    justify-content: space-around;
+    width: 300px;
+    margin-left: 150px;
+    margin-right: 20px;
+}#img2{
+    justify-content: space-around;
+    width: 300px;
+    margin-right: 10px;
+}#img3{
+    justify-content: space-around;
+    width: 300px;
+    margin-right: 00px;
+
+}#img4{
+    justify-content: space-around;
+    width: 300px;
+    margin-right: 150px;
+}
+
+#img5{
+    justify-content: space-around;
+    width: 300px;
+    margin-left: 150px;
+    margin-right: 20px;
+}#img6{
+    justify-content: space-around;
+    width: 300px;
+    margin-right: 10px;
+}#img7{
+    justify-content: space-around;
+    width: 300px;
+    margin-right: 00px;
+
+}#img8{
+    justify-content: space-around;
+    width: 300px;
+    margin-right: 150px;
 }
 
 /* contact section */
@@ -132,4 +165,15 @@ html{
     margin-left: 30px;
     border: 1px solid white;
     padding-bottom: 130px;
+}
+
+/* social section */
+.social{
+    padding-top: 50px;
+}
+#social1{
+    padding-left: 500px;
+}
+#social9{
+    padding-right: 500px;
 }
