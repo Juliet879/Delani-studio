@@ -5,6 +5,7 @@
     margin-right: 10%;
     height: 80vh;
     color: white;
+    font-weight: 10px;
 }
 #landing{
     padding-top: 10%;
@@ -174,4 +175,13 @@
 }
 #social9{
     padding-right: 500px;
+}
+.footer{
+    padding-left: 45%;
+    font-size: 23px;
+}
+.footer p{
+    padding-left: 5%;
+    font-size: 20px;
+    font-weight: 900;
 }
