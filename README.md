@@ -1,5 +1,5 @@
-# Portfolio
-#### This is a website project that gives the Akan name of users by inputed user's birthdate and gender, 19 July,2020.
+# DELANI STUDIO
+#### This is a website that gives detailed information of the website services we develop at Delani studio, 19 July,2020.
 #### By **Juliet Gisemba** 
 
 ## Description
@@ -12,10 +12,6 @@ to determine the day of the week born and subsequently their Akan name
 Frequently in Ghana, children are given their first name as a 'day name'
 which corresponds to the day in the week they were born.
 
-## BDD
-* Enter your birth Year,Yonth and Date.
-* Enter your gender.
-* Enter "Getenate name"
                 
 ## Setup/Installation Requirements
 * Click on the reposity above to open
