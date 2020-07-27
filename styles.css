@@ -1,9 +1,10 @@
-
+body{
+    overflow-x: hidden;
+}
 #landing{
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
-    margin-left: 10%;
-    margin-right: 10%;
-    height: 80vh;
+    
+    height: 100vh;
     color: white;
 }
 #land{
@@ -43,10 +44,8 @@
 /* services section */
 #services{
     background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg);
-    height: 50vh;
-    margin-right: 10%;
+    height: 60vh;
     color: white;
-    margin-left: 9.5%;
 }
 #service{
     padding-top: 8%;
@@ -75,13 +74,15 @@
     font-size: 170%;
     margin-left: 45%;
 } 
-#show{
-    display: none;
+.doing{
     text-align: center;
+}
+#show1,#show2,#show3{
+    display: none;
 }
 
 /* portfolio section */
-#img1:hover{
+/* #img1:hover{
     opacity: 0.5;
 }
 #img2:hover{
@@ -105,14 +106,33 @@
 #img8:hover{
     opacity: 0.5;
 }
-
-
+ */
+.text{
+  position: absolute;
+  opacity: 0;
+  transition: opacity 0.2s, visibility 0.2s;
+  border: 2px solid white;
+  color: white;
+  font-size: 40px;
+  font-style: italic;
+  color: bisque;
+  height: 70%;
+  width: 70%;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.text_show{
+    visibility: visible;
+    opacity: 1;
+    background-color: black;
+}
 #portfolio h1{
     font-size: 170%;
     margin-left: 45%;
-}
-*{
-    box-sizing: border-box;
 }
 #img1{
     justify-content: space-around;
@@ -155,6 +175,20 @@
     width: 280px;
     margin-right: 150px;
 }
+/* @media only screen and (min-width: 625px){
+    #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
+      width: 100%;
+      height: 100%;
+      top: 20px;
+      left: 20px;
+      padding-top:20%; 
+      font-size: 10px;
+    } */
+    .col-md-3 img{
+      width: 400px;
+      margin: 20px;
+    }
+
 
 /* contact section */
 #contact h1{

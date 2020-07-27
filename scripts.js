@@ -1,16 +1,24 @@
-// //    what we do section
-$(document).ready(function() {
-  $(("#hide")).click(function () {
-    $("#hide").slideDown().hide;
-    $("#show").show();
-});
-  $(("#show")).click(function () {
-    $("#show").slideUp();
-    $("#hide").slideDown();
-});
-})
-// giving feedback to the customer
 
+$(document).ready(function(){
+  $(".doing1").click(function(){
+    $("#hide1").toggle();
+    $("#show1").toggle();
+  })
+})
+$(document).ready(function(){
+  $(".doing2").click(function(){
+    $("#hide2").toggle();
+    $("#show2").toggle();
+  })
+})
+$(document).ready(function(){
+  $(".doing3").click(function(){
+    $("#hide3").toggle();
+    $("#show3").toggle();
+  })
+})
+
+// giving feedback to the customer
 $(document).ready(function(){
   $("form#formValidity").submit(function(event){
     // event.preventDefault();
@@ -26,3 +34,10 @@ $(document).ready(function(){
     
   });
 });
+//  porfolio
+$(document).ready(function(){
+  $(".naming").hover(function(){
+    $(this).find("div").toggleClass("text ");
+  })
+
+})
