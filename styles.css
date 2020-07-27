@@ -1,5 +1,5 @@
-
-.landing{
+/* 
+ .landing{
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
     margin-left: 10%;
     margin-right: 10%;
@@ -23,7 +23,7 @@
     padding-top: 60px;
 }
 
-/* About section */
+About section
 .about h1{
     padding-left: 45%;
     font-size: 23px;
@@ -41,7 +41,7 @@
     padding-left: 42%;
 }
 
-/* services section */
+services section
 .services{
     background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg);
     height: 50vh;
@@ -66,7 +66,7 @@
     margin-left: 22%;
 }
 
-/* what we do section */
+what we do section
 .row{
     padding-top: 20px;
     display: flex;
@@ -76,11 +76,11 @@
     font-size: 170%;
     margin-left: 45%;
 } 
-.hide{
+.show{
     display: none;
 }
 
-/* portfolio section */
+portfolio section
 #img1:hover{
     opacity: 0.5;
 }
@@ -132,7 +132,7 @@
     margin-right: 150px;
 }
 
-/* contact section */
+contact section
 .contact h1{
     font-size: 170%;
     margin-left: 45%;
@@ -166,7 +166,7 @@
     padding-bottom: 130px;
 }
 
-/* social section */
+social section
 .social{
     padding-top: 50px;
 }
@@ -183,5 +183,7 @@
 .footer p{
     padding-left: 5%;
     font-size: 20px;
-    font-weight: 900;
+    font-weight: 900; */
+.walrus-showing{
+    display: none;
 }
