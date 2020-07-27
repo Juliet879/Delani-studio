@@ -1,12 +1,12 @@
 
-.landing{
+#landing{
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
     margin-left: 10%;
     margin-right: 10%;
     height: 80vh;
     color: white;
 }
-#landing{
+#land{
     padding-top: 10%;
     padding-left: 30%;
 }
@@ -23,11 +23,11 @@
 }
 
 /* About section */
-.about h1{
+#about h1{
     padding-left: 45%;
     font-size: 23px;
 }
-.about p{
+#about p{
     padding-left: 20%;
 }
 #one{
@@ -41,17 +41,17 @@
 }
 
 /* services section */
-.services{
+#services{
     background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg);
     height: 50vh;
     margin-right: 10%;
     color: white;
     margin-left: 9.5%;
 }
-#services{
+#service{
     padding-top: 8%;
 }
-#services h1{
+#service h1{
     font-size: 170%;
     margin-left: 40%;
 }
@@ -71,12 +71,13 @@
     display: flex;
     justify-content: space-around;
 }
-.doing h1{
+#doing h1{
     font-size: 170%;
     margin-left: 45%;
 } 
-.show{
+#show{
     display: none;
+    text-align: center;
 }
 
 /* portfolio section */
@@ -88,7 +89,6 @@
 }
 #img3:hover{
     opacity: 0.5;
-    background-color: thistle;
 }
 #img4:hover{
     opacity: 0.5;
@@ -107,7 +107,7 @@
 }
 
 
-.portfolio h1{
+#portfolio h1{
     font-size: 170%;
     margin-left: 45%;
 }
@@ -157,11 +157,11 @@
 }
 
 /* contact section */
-.contact h1{
+#contact h1{
     font-size: 170%;
     margin-left: 45%;
 }
-.contact{
+#contact{
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true);
     height: 60vh;
     margin-left: 10%;
@@ -191,7 +191,7 @@
 }
 
 /* social section */
-.social{
+#social{
     padding-top: 50px;
 }
 #social1{
