@@ -1,11 +1,10 @@
-/* 
- .landing{
+
+.landing{
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true);
     margin-left: 10%;
     margin-right: 10%;
     height: 80vh;
     color: white;
-    font-weight: 10px;
 }
 #landing{
     padding-top: 10%;
@@ -23,7 +22,7 @@
     padding-top: 60px;
 }
 
-About section
+/* About section */
 .about h1{
     padding-left: 45%;
     font-size: 23px;
@@ -41,7 +40,7 @@ About section
     padding-left: 42%;
 }
 
-services section
+/* services section */
 .services{
     background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg);
     height: 50vh;
@@ -66,7 +65,7 @@ services section
     margin-left: 22%;
 }
 
-what we do section
+/* what we do section */
 .row{
     padding-top: 20px;
     display: flex;
@@ -80,10 +79,33 @@ what we do section
     display: none;
 }
 
-portfolio section
+/* portfolio section */
 #img1:hover{
     opacity: 0.5;
 }
+#img2:hover{
+    opacity: 0.5;
+}
+#img3:hover{
+    opacity: 0.5;
+    background-color: thistle;
+}
+#img4:hover{
+    opacity: 0.5;
+}
+#img5:hover{
+    opacity: 0.5;
+}
+#img6:hover{
+    opacity: 0.5;
+}
+#img7:hover{
+    opacity: 0.5;
+}
+#img8:hover{
+    opacity: 0.5;
+}
+
 
 .portfolio h1{
     font-size: 170%;
@@ -94,45 +116,47 @@ portfolio section
 }
 #img1{
     justify-content: space-around;
-    width: 300px;
+    width: 280px;
     margin-left: 150px;
     margin-right: 20px;
+    
 }#img2{
     justify-content: space-around;
-    width: 300px;
-    margin-right: 10px;
+    width: 280px;
+    margin-right: 30px;
 }#img3{
     justify-content: space-around;
-    width: 300px;
-    margin-right: 00px;
+    width: 280px;
+    margin-right: 25px;
 
 }#img4{
     justify-content: space-around;
-    width: 300px;
+    width: 280px;
     margin-right: 150px;
 }
-
 #img5{
     justify-content: space-around;
-    width: 300px;
+    width: 280px;
     margin-left: 150px;
     margin-right: 20px;
-}#img6{
+}
+#img6{
     justify-content: space-around;
-    width: 300px;
-    margin-right: 10px;
-}#img7{
+    width: 280px;
+    margin-right: 30px;
+}
+#img7{
     justify-content: space-around;
-    width: 300px;
-    margin-right: 00px;
+    width: 280px;
+    margin-right: 25px;
 
 }#img8{
     justify-content: space-around;
-    width: 300px;
+    width: 280px;
     margin-right: 150px;
 }
 
-contact section
+/* contact section */
 .contact h1{
     font-size: 170%;
     margin-left: 45%;
@@ -166,7 +190,7 @@ contact section
     padding-bottom: 130px;
 }
 
-social section
+/* social section */
 .social{
     padding-top: 50px;
 }
@@ -182,8 +206,6 @@ social section
 }
 .footer p{
     padding-left: 5%;
-    font-size: 20px;
-    font-weight: 900; */
-.walrus-showing{
-    display: none;
+    font-size:20px;
+    font-weight: 700;
 }

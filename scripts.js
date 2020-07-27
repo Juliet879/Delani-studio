@@ -6,19 +6,14 @@ $("img").click(function () {
 
 });
 // giving feedback to the customer
-$("button").click(function (omonge) {
-  var client = document.getElementById('nameDetail').value;
+$("button").click(function () {
   alert(' Dear ' + ' esteemed ' + client + ' we have received your message successful. ' + ' Feel free to reach out to us anytime');
-  omonge.preventDefault();
 });
-//    reset my form button
-$("button").on('click', function () {
-  $('form').each(function () {
-    this.reset();
-  });
-});
+
+
 // portifolio section 
-$(".card").hover(function () {
+$(".col-mod-3").hover(function () {
   $(this).children(".card-1").fadeToggle(1000, "linear");
 });
 });
+
