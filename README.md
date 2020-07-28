@@ -1,5 +1,7 @@
 # DELANI STUDIO
-#### This is a website that gives detailed information of the website services we develop at Delani studio, 19 July,2020.
+<img src="images/screenshot.png">
+
+#### This is a website that gives detailed information of the website services we develop at Delani studio, 24 July,2020.
 #### By **Juliet Gisemba** 
 
 ## Description
