@@ -9,10 +9,8 @@ This is a link to my [github repository](https://github.com/Juliet879/Delani-stu
 
 Project [live link](https://github.com/Juliet879/Delani-studio)
 
-This is a project that takes date of birth as input from user and use it
-to determine the day of the week born and subsequently their Akan name
-Frequently in Ghana, children are given their first name as a 'day name'
-which corresponds to the day in the week they were born.
+Delani Studio creates websites for different organisation such as businesses
+,comopanity,inoder to advertise products and services offered by the organisations
 
                 
 ## Setup/Installation Requirements
