@@ -1,5 +1,5 @@
 # DELANI STUDIO
-<img src="url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true)">
+<img src="images/Screenshot from 2020-07-28 15-27-43.pngf"
 
 #### This is a website that gives detailed information of the website services we develop at Delani studio, 24 July,2020.
 #### By **Juliet Gisemba** 
