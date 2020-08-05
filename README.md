@@ -7,7 +7,8 @@
 ## Description
 This is a link to my [github repository](https://github.com/Juliet879/Delani-studio)
 
-Project [live link](https://github.com/Juliet879/Delani-studio)
+Project [live link]( https://juliet879.github.io/Delani-studio/
+)
 
 Delani Studio creates websites for different organisation such as businesses
 ,comopanity,inoder to advertise products and services offered by the organisations
