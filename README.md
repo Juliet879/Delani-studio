@@ -1,5 +1,5 @@
 # DELANI STUDIO
-<img src="images/Screenshot from 2020-07-28 15-27-43.pngf">
+<img src="images/Screenshot from 2020-07-28 15-27-43.png">
 
 #### This is a website that gives detailed information of the website services we develop at Delani studio, 24 July,2020.
 #### By **Juliet Gisemba** 
