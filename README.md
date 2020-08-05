@@ -11,7 +11,7 @@ Project [live link]( https://juliet879.github.io/Delani-studio/
 )
 
 Delani Studio creates websites for different organisation such as businesses
-,comopanity,inoder to advertise products and services offered by the organisations
+,companies,inorder to advertise products and services offered by the organisations
 
                 
 ## Setup/Installation Requirements
